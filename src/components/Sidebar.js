@@ -39,6 +39,36 @@ const Sidebar = () => {
             <li>Subscriptions</li>
             </ul>
         </div>
+        <div>
+            <h4 className='font-bold pt-5'>Subscriptions</h4>
+            <ul>
+            <li>Home</li>
+            <li>Shorts</li>
+            <li>Subscriptions</li>
+            <li>Home</li>
+            <li>Shorts</li>
+            <li>Subscriptions</li>
+            </ul>
+        </div>
+      
+        <div>
+            <h4 className='font-bold pt-5'>Subscriptions</h4>
+            <ul>
+            <li>Home</li>
+            <li>Shorts</li>
+            <li>Subscriptions</li>
+            <li>Home</li>
+            <li>Shorts</li>
+            <li>Subscriptions</li>
+            <li>Home</li>
+            <li>Shorts</li>
+            <li>Subscriptions</li>
+            <li>Home</li>
+            <li>Shorts</li>
+            <li>Subscriptions</li>
+            </ul>
+        </div>
+      
       
     </div>
   )

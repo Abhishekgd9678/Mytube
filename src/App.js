@@ -6,13 +6,13 @@ import Header from './components/Header';
 
 import store from './utils/store';
 
+
+
 function App() {
   return (
 <>
 <Provider store={store}>
 <Header/>
-
-
 <Body/>
 </Provider>
 </>
